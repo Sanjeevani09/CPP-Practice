@@ -36,7 +36,7 @@ This repository is aimed at:
   <a href="https://www.hackerearth.com/@guptasanjeevani970/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="HackerEarth" width="50" height="50"/>
   </a>
-  <a href="[https://leetcode.com/your_leetcode_profile](https://leetcode.com/u/SanjeevaniGupta/)">
+  <a href="https://leetcode.com/u/SanjeevaniGupta/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/sanjeevani-gupta-a59819216">
