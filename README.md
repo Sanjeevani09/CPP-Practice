@@ -24,7 +24,7 @@ This repository is aimed at:
 - Clone the repo and run the solutions on your local machine for deeper understanding.
 - Feel free to raise an issue or suggest improvements!
 
-- ## Platforms I Use
+- <h3>Platforms I Use</h3>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/guptasanjeevani1">
