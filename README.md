@@ -9,13 +9,13 @@ Here, you’ll find solutions to a wide range of topics, including:
 - **Algorithms** (sorting, searching, dynamic programming, etc.)
 - **Mathematical Problems** (number theory, combinatorics, etc.)
 - **Competitive Programming Challenges** (optimization, problem analysis, etc.)
-Each solution is carefully written in C++ and includes detailed comments to explain the approach, logic, and potential optimizations.
+Each solution is carefully written in C++ and includes approach, logic, and potential optimizations.
 
 **<h3>Purpose</h3>**
 This repository is aimed at:
 
 - **Tracking Progress**: Monitoring my growth as a C++ programmer.
-- **Problem Solving**: Tackling a variety of coding challenges to improve algorithmic thinking.
+- **Problem Solving**: Tackling various coding challenges to improve algorithmic thinking.
 - **Sharing Knowledge**: Providing reference codes that others can learn from or use as inspiration for their solutions.
 - **Open for Contribution**s: I welcome suggestions, improvements, or discussions around different problem approaches.
 
