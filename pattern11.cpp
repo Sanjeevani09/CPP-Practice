@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 
-// Pattern we want to print - number Hill pattern
+// Pattern we want to print - Number Hill pattern
 // Enter any number you want : 5
 //      1
 //     1 2
