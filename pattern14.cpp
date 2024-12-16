@@ -20,7 +20,7 @@ int main() {
 }
 
 
-// Pattern we want to print - Reverse star pattern
+// Pattern we want to print - Hill star pattern
 // Enter any number you want : 4
 //        *
 //      * * * 
