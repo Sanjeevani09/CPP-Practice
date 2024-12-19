@@ -25,6 +25,6 @@ int main() {
 }
 
 
-// Write a program to check whether the givern number is palindrome or not
+// Write a program to check whether the given number is palindrome or not
 // Enter the number : 1221
 // The number 1221 is a Palindrome number!
