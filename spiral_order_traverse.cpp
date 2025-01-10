@@ -92,4 +92,12 @@ Spiral Order of the above matrix is :
 9 8 
 4 
 1
+
+ORDER OF TRAVERSING
+------->
+^----->|
+|^--->||
+||<--V||
+|<----V|
+<------V
 */
